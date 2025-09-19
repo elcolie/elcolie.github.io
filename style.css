@@ -61,3 +61,15 @@ p {
     font-size: 1.3rem;
   }
 }
+
+/* Logo styling */
+.logo-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.bottom-logo {
+  width: 70%;
+  height: auto;
+  max-width: 300px;
+}
